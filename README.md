@@ -4,12 +4,12 @@
 
 ## Results GIF below
 
-![Data](/results_gif/data.gif)
+![Data](/result_gif/data.gif)
 
-![Downsample](/results_gif/downsample.gif)
+![Downsample](/result_gif/downsample.gif)
 
-![Segment](/results_gif/segment.gif)
+![Segment](/result_gif/segment.gif)
 
-![Refinement](/results_gif/refinement.gif)
+![Refinement](/result_gif/refinement.gif)
 
-![Final](/results_gif/final.gif)
+![Final](/result_gif/final.gif)
